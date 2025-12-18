@@ -19,4 +19,10 @@
 // 3. Easier to learn and use with JSX
 // 4. Strong community support and resources
 // 5. Flexibility to integrate with other libraries and frameworks
-``
+
+// Disadvantages of React
+// 1. Steep learning curve for beginners
+// 2. Frequent updates and changes in the ecosystem
+// 3. Requires additional libraries for state management and routing
+// 4. JSX syntax may be confusing for some developers
+// 5. SEO challenges for server-side rendering
